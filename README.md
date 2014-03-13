@@ -1,7 +1,7 @@
 BreakBrick
 ==========
-#demo
+##demo
 http://jsdo.it/naoyashiga/jR2i
 
-#Library
+##Library
 using Paper.js
